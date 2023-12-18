@@ -1,0 +1,7 @@
+name: ValoriaRegen
+version: '${project.version}'
+main: com.cuboidcat.valoriaregen.ValoriaRegen
+api-version: '1.20'
+depend: [WorldEdit]
+commands:
+  regen:
